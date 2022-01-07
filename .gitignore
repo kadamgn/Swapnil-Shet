@@ -1,0 +1,4 @@
+git add ignore.txt
+git commit -m "phone band kara"
+git status
+
